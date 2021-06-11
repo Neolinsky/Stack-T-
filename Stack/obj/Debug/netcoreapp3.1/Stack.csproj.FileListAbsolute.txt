@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\student\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\student\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
